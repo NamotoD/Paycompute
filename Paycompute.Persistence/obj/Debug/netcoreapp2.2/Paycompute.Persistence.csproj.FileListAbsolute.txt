@@ -11,3 +11,16 @@ C:\Users\otodr\source\repos\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Payco
 C:\Users\otodr\source\repos\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.csproj.CopyComplete
 C:\Users\otodr\source\repos\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.dll
 C:\Users\otodr\source\repos\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.pdb
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Persistence.deps.json
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Persistence.runtimeconfig.json
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Persistence.runtimeconfig.dev.json
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Persistence.dll
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Persistence.pdb
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.csprojAssemblyReference.cache
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.AssemblyInfoInputs.cache
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.AssemblyInfo.cs
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.csproj.CopyComplete
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.dll
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.pdb
