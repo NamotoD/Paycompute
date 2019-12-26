@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\otodr\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj": {}
+    "C:\\Users\\otodr\\source\\repos\\PayComputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\otodr\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+    "C:\\Users\\otodr\\source\\repos\\PayComputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\otodr\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\otodr\\source\\repos\\PayComputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj",
         "projectName": "Paycompute.Entity",
-        "projectPath": "C:\\Users\\otodr\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj",
+        "projectPath": "C:\\Users\\otodr\\source\\repos\\PayComputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj",
         "packagesPath": "C:\\Users\\otodr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\otodr\\source\\repos\\Paycompute.Entity\\obj\\",
+        "outputPath": "C:\\Users\\otodr\\source\\repos\\PayComputeApp\\Paycompute.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
