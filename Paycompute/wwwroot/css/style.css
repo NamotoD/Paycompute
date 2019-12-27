@@ -19120,7 +19120,7 @@ input:focus {
 @font-face {
   font-family: 'Roboto';
   src: url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Light.eot");
-  src: url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Light.eot?#iefix") format("embedded-opentype"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Light.woff2") format("woff2"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Light.woff") format("woff"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Light.ttf") format("truetype");
+  src: url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Light.eot?#iefix") format("embedded-opentype"),"~/fonts/Roboto-Light.woff2", url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Light.woff") format("woff"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
 }
@@ -19128,7 +19128,7 @@ input:focus {
 @font-face {
   font-family: 'Roboto';
   src: url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Bold.eot");
-  src: url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Bold.eot?#iefix") format("embedded-opentype"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Bold.woff2") format("woff2"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Bold.woff") format("woff"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Bold.ttf") format("truetype");
+  src: url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Bold.eot?#iefix") format("embedded-opentype"),"~/fonts/Roboto-Bold.woff2", url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Bold.woff") format("woff"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
@@ -19136,7 +19136,8 @@ input:focus {
 @font-face {
   font-family: 'Roboto';
   src: url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Medium.eot");
-  src: url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Medium.eot?#iefix") format("embedded-opentype"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Medium.woff2") format("woff2"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Medium.woff") format("woff"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Medium.ttf") format("truetype");
+  src: url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Medium.eot?#iefix") format("embedded-opentype"),"~/fonts/
+      off2","~/fonts/Roboto-Medium.woff","~/fonts/Roboto-Medium.ttf";
   font-weight: 500;
   font-style: normal;
 }
@@ -19144,7 +19145,7 @@ input:focus {
 @font-face {
   font-family: 'Roboto';
   src: url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Regular.eot");
-  src: url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Regular.eot?#iefix") format("embedded-opentype"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Regular.woff2") format("woff2"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Regular.woff") format("woff"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+  src: url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Regular.eot?#iefix") format("embedded-opentype"),"~/fonts/Roboto-Regular.woff2", url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Regular.woff") format("woff"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -19152,7 +19153,7 @@ input:focus {
 @font-face {
   font-family: 'Roboto';
   src: url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Black.eot");
-  src: url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Black.eot?#iefix") format("embedded-opentype"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Black.woff2") format("woff2"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Black.woff") format("woff"), url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Black.ttf") format("truetype");
+  src: url("http://www.urbanui.com/celestial/template/fonts/Roboto/Roboto-Black.eot?#iefix") format("embedded-opentype"),"~/fonts/Roboto-Black.woff2","~/fonts/Roboto-Black.woff","~/fonts/Roboto-Black.ttf";
   font-weight: 900;
   font-style: normal;
 }
