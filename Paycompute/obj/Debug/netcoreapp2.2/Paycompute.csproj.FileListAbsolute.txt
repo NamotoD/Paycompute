@@ -78,3 +78,4 @@ C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Pay
 C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.RazorTargetAssemblyInfo.cs
 C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.Views.pdb
 C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.csproj.CopyComplete
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
