@@ -44,15 +44,15 @@
                                         <td>@item.Gender</td>
                                         <td>@item.Designation</td>
                                         <td>@item.City</td>
-                                        <td>@item.DateJoined</td>
+                                        <td>@item.DateJoined.ToString("dd/MM/yyy")</td>
                                         <td>
-                                            <a class="text-primary" asp-action="Edit" asp-rroute-id="@item.Id">
+                                            <a class="text-primary" asp-action="Edit" asp-route-id="@item.Id">
                                                 <i class="fas fa-edit"></i>Edit
                                             </a>
-                                            <a class="text-success" asp-action="Detail" asp-rroute-id="@item.Id">
+                                            <a class="text-success" asp-action="Detail" asp-route-id="@item.Id">
                                                 <i class="fas fa-bars"></i>Detail
                                             </a>
-                                            <a class="text-danger" asp-action="Delete" asp-rroute-id="@item.Id">
+                                            <a class="text-danger" asp-action="Delete" asp-route-id="@item.Id">
                                                 <i class="far fa-trash-alt"></i>Delete
                                             </a>
                                         </td>

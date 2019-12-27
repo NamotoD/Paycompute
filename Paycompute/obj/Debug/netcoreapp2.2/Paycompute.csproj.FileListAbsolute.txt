@@ -79,3 +79,7 @@ C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Pay
 C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.Views.pdb
 C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.csproj.CopyComplete
 C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Detail.cshtml.g.cs
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Delete.cshtml.g.cs
