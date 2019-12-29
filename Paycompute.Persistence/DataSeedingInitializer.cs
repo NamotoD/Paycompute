@@ -35,6 +35,20 @@ namespace Paycompute.Persistence
                 }
             }
 
+            if (userManager.FindByEmailAsync("oto@gmail.com").Result == null)
+            {
+                IdentityUser user = new IdentityUser
+                {
+                    UserName = "oto@gmail.com",
+                    Email = "oto@gmail.com"
+                };
+                IdentityResult identityResult = userManager.CreateAsync(user, "Password1").Result;
+                if (identityResult.Succeeded)
+                {
+                    userManager.AddToRoleAsync(user, "Admin").Wait();
+                }
+            }
+
             if (userManager.FindByEmailAsync("manager@gmail.com").Result == null)
             {
                 IdentityUser user = new IdentityUser
