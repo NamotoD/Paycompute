@@ -12,3 +12,4 @@ C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Entity\obj\Debug\netcoreapp
 C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.AssemblyInfo.cs
 C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.dll
 C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.csprojAssemblyReference.cache
