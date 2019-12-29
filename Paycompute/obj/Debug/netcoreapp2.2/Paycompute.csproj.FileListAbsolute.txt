@@ -83,3 +83,9 @@ C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Raz
 C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Edit.cshtml.g.cs
 C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Detail.cshtml.g.cs
 C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Index.cshtml.g.cs
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Create.cshtml.g.cs
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Detail.cshtml.g.cs
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Pay\Payslip.cshtml.g.cs
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute\bin\Debug\netcoreapp2.2\WkHtmlToPdf\wkhtmltoimage.exe
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute\bin\Debug\netcoreapp2.2\WkHtmlToPdf\wkhtmltopdf.exe
