@@ -1,0 +1,8 @@
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Entity\bin\Release\netcoreapp2.2\Paycompute.Entity.deps.json
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Entity\bin\Release\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Entity\bin\Release\netcoreapp2.2\Paycompute.Entity.pdb
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Entity\obj\Release\netcoreapp2.2\Paycompute.Entity.csprojAssemblyReference.cache
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Entity\obj\Release\netcoreapp2.2\Paycompute.Entity.AssemblyInfoInputs.cache
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Entity\obj\Release\netcoreapp2.2\Paycompute.Entity.AssemblyInfo.cs
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Entity\obj\Release\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\otodr\source\repos\PayComputeApp\Paycompute.Entity\obj\Release\netcoreapp2.2\Paycompute.Entity.pdb
